@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://teahousegroup.github.io</id>
+    <title>茶室集团</title>
+    <updated>2022-08-06T06:22:42.853Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://teahousegroup.github.io"/>
+    <link rel="self" href="http://teahousegroup.github.io/atom.xml"/>
+    <subtitle>Teyvat Thehouse Group , Exploring Leisure Teahouse .</subtitle>
+    <logo>http://teahousegroup.github.io/images/avatar.png</logo>
+    <icon>http://teahousegroup.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 茶室集团</rights>
+</feed>
